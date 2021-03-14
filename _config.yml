@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "High Holborn 하이홀본"
-title_separator          : "맛집이에용"
+title                    : "High Holborn"
+title_separator          : # "맛집이에용"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "최승재 레스트랑"
 description              : "An amazing website."
@@ -94,15 +94,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "하이홀본"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "영국 High Holborn의 ."
+  location         : "서울 성동구 금호 4가 676 "
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:jay@highholborn.co.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
