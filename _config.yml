@@ -21,7 +21,7 @@ title_separator          : "맛집이에용"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "최승재 레스트랑"
 description              : "An amazing website."
-url                      : "https://highholboen.github.io"
+url                      : "https://highholborn.co.kr"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
